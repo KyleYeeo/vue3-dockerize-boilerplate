@@ -1,6 +1,6 @@
-# vue3-docker-boilerplate
+# Vue3 Dockerize Boilerplate
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite and Docker.
 
 ## Recommended IDE Setup
 
@@ -32,4 +32,16 @@ npm run build
 
 ```sh
 npm run lint
+```
+
+### Build Docker Image
+
+```sh
+npm run docker:build
+```
+
+### Run Docker Container
+
+```sh
+npm run docker:run
 ```
