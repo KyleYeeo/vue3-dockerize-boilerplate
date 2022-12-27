@@ -8,7 +8,7 @@
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
     "docker:build": "docker build . -t dockerized-vue3",
-    "docker:run": "docker run -p 3000:80 -d dockerized-vue3"
+    "docker:run": "docker run -p 3000:3000 -d dockerized-vue3"
   },
   "dependencies": {
     "pinia": "^2.0.28",
