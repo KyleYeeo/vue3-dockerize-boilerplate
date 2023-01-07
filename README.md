@@ -1,5 +1,13 @@
 # Vue3 Dockerize Boilerplate
 
+<div align="center" style="display: flex;"> 
+  <img alt="Stars" src="https://img.shields.io/github/stars/EvanYeeo/vue3-dockerize-boilerplate?style=for-the-badge">
+  <img alt="Forks" src="https://img.shields.io/github/forks/EvanYeeo/vue3-dockerize-boilerplate?style=for-the-badge">
+  <img alt="Issues" src="https://img.shields.io/github/issues/EvanYeeo/vue3-dockerize-boilerplate?style=for-the-badge">
+  <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EvanYeeo/vue3-dockerize-boilerplate?style=for-the-badge">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/EvanYeeo/vue3-dockerize-boilerplate?style=for-the-badge">
+</div>
+<br/>
 This template should help get you started developing with Vue 3 in Vite and Docker.
 
 ## Recommended IDE Setup
